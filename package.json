@@ -1,0 +1,14 @@
+{
+  "name": "trait-offer-merkle-tree",
+  "version": "1.0.0",
+  "description": "How does seaport and blur support NFT trait offers?",
+  "main": "index.js",
+  "repository": "https://github.com/nazariyv/trait-offer-merkle-tree.git",
+  "author": "nazariyv <hi@naz.ooo>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^5.5.3"
+  }
+}
